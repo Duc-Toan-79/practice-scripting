@@ -8,33 +8,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>Target Tables</mobile_title>
+        <mobile_title>Create New Condition</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_591439_itsm_prac_target_table</name>
-        <order>200</order>
+        <name>x_591439_itsm_prac_condition_table</name>
+        <order>300</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_591439_itsm_prac.target_table_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-03-11 04:32:52</sys_created_on>
+        <sys_created_on>2021-03-11 08:24:58</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>6edb688a2ffe241082c411c82799b657</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>List Targets</sys_name>
+        <sys_id>98c02dce2f72641082c411c82799b633</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Condition</sys_name>
         <sys_overrides/>
         <sys_package display_value="ITSM Practice" source="x_591439_itsm_prac">3f85e0422ffe241082c411c82799b685</sys_package>
         <sys_policy/>
         <sys_scope display_value="ITSM Practice">3f85e0422ffe241082c411c82799b685</sys_scope>
-        <sys_update_name>sys_app_module_6edb688a2ffe241082c411c82799b657</sys_update_name>
+        <sys_update_name>sys_app_module_98c02dce2f72641082c411c82799b633</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-03-11 08:23:10</sys_updated_on>
+        <sys_updated_on>2021-03-11 08:24:58</sys_updated_on>
         <timeline_page/>
-        <title>List Targets</title>
+        <title>Create New Condition</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
