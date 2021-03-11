@@ -2,7 +2,7 @@
     <sys_ui_action action="INSERT_OR_UPDATE">
         <action_name>check event</action_name>
         <active>true</active>
-        <client>false</client>
+        <client>true</client>
         <client_script_v2><![CDATA[function onClick(g_form) {
 
 }]]></client_script_v2>
@@ -29,7 +29,7 @@
         <name>Check</name>
         <onclick/>
         <order>100</order>
-        <script><![CDATA[alert("5456465456")]]></script>
+        <script><![CDATA[alert("5456465456");]]></script>
         <show_insert>true</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
@@ -40,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>924e600e2ffe241082c411c82799b68b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Check</sys_name>
         <sys_overrides/>
         <sys_package display_value="ITSM Practice" source="x_591439_itsm_prac">3f85e0422ffe241082c411c82799b685</sys_package>
@@ -48,7 +48,7 @@
         <sys_scope display_value="ITSM Practice">3f85e0422ffe241082c411c82799b685</sys_scope>
         <sys_update_name>sys_ui_action_924e600e2ffe241082c411c82799b68b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-03-11 04:49:33</sys_updated_on>
+        <sys_updated_on>2021-03-11 06:30:55</sys_updated_on>
         <table>x_591439_itsm_prac_target_table</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
