@@ -14,7 +14,7 @@
         <form_context_menu>false</form_context_menu>
         <form_link>false</form_link>
         <form_menu_button_v2>false</form_menu_button_v2>
-        <form_style/>
+        <form_style>primary</form_style>
         <hint/>
         <isolate_script>true</isolate_script>
         <list_action>false</list_action>
@@ -29,8 +29,8 @@
         <name>Test Button</name>
         <onclick/>
         <order>100</order>
-        <script><![CDATA[alert("Hello! I am an alert box!!");]]></script>
-        <show_insert>true</show_insert>
+        <script><![CDATA[action.setRedirectURL ( 'http://www.mysite.com/mypage.htm' );]]></script>
+        <show_insert>false</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
         <show_update>true</show_update>
@@ -40,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8064498a2f32641082c411c82799b6ed</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Test Button</sys_name>
         <sys_overrides/>
         <sys_package display_value="ITSM Practice" source="x_591439_itsm_prac">3f85e0422ffe241082c411c82799b685</sys_package>
@@ -48,7 +48,7 @@
         <sys_scope display_value="ITSM Practice">3f85e0422ffe241082c411c82799b685</sys_scope>
         <sys_update_name>sys_ui_action_8064498a2f32641082c411c82799b6ed</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-03-11 06:23:25</sys_updated_on>
+        <sys_updated_on>2021-03-11 07:29:55</sys_updated_on>
         <table>x_591439_itsm_prac_target_table</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
